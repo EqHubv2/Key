@@ -1,0 +1,6 @@
+if Input.Value == "admin" then
+    print("valid Key! [Working]")
+else
+    print("Invalid Key! [Not working]")
+
+end
