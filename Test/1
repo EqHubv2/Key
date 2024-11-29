@@ -1,0 +1,13 @@
+local key = {
+    ["key_Samfewngjiwnsfdjgnhfdsgaaa1233456541111"] = true
+    ["key_admin"] = true
+
+}
+
+
+if getgenv().key == "key_Samfewngjiwnsfdjgnhfdsgaaa1233456541111" or getgenv().key == "key_admin" then
+    print("Correct Key!")
+    else
+
+    print("Incorrect Key.")
+end
