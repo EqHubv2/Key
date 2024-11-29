@@ -1,0 +1,6 @@
+		if Value == "key_admin" then
+    print("valid Key! [Working]")
+else
+    print("Invalid Key! [Not working]")
+
+end
