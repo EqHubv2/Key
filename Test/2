@@ -1,0 +1,6 @@
+if getgenv().key == "key_Samfewngjiwnsfdjgnhfdsgaaa1233456541111" then
+    print("valid Key! [Working]")
+    else
+
+    print("Invalid Key! [Not working] [Support : If you use a correct key but it not working that mean your exploits not support!]")
+end
